@@ -8,7 +8,7 @@ moves:
     - [Hydro Cannon]
     - [Blast Burn]
     - [Zap Cannon]
-    - [Lock On
+    - [Lock On]
 gender: [m,f]
 happiness: 255
 biddable: True
