@@ -11,7 +11,7 @@ moves:
     - [Mind Reader]
 gender: [m,f]
 happiness: 255
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Dusk]
 shiny: True
