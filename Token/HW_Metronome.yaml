@@ -1,7 +1,7 @@
 species: Haunter
 ingamename: Brow Bills
 displayname: Brow Bills
-setname: Metronome
+setname: HMetronome
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
@@ -23,7 +23,7 @@ hidden: False
 species: Sableye
 ingamename: SkullMoney
 displayname: Skull Money
-setname: Metronome
+setname: HMetronome
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
@@ -45,7 +45,7 @@ hidden: False
 species: Rotom
 ingamename: Dome Dosh
 displayname: Dome Dosh
-setname: Metronome
+setname: HMetronome
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
@@ -66,7 +66,7 @@ hidden: False
 species: Banette
 ingamename: CrniumCash
 displayname: Cranium Cash
-setname: Metronome
+setname: HMetronome
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
@@ -88,7 +88,7 @@ hidden: False
 species: Dusclops
 ingamename: NoggiNotes
 displayname: Noggin Notes
-setname: Metronome
+setname: HMetronome
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
@@ -110,7 +110,7 @@ hidden: False
 species: Mismagius
 ingamename: CrownCoins
 displayname: Crown Coins
-setname: Metronome
+setname: HMetronome
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
