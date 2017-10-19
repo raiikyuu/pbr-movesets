@@ -34,7 +34,7 @@ rarity: 0.2
 ball: [Repeat]
 nature: Modest
 ivs: 0
-evs: {hp: 108, atk: 16, def: 100, spA: 100, spD: 100, spe: 100}
+evs: {hp: 108, atk: 16, def: 100, spA: 100, spD: 100, spe: 84}
 ---
 species: Rampardos
 setname: Max Atk
