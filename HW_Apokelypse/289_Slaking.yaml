@@ -1,0 +1,22 @@
+species:
+ingamename:
+displayname:
+setname: Halloween
+tags: ubers
+item:
+ability:
+moves:
+    - []
+    - []
+    - []
+    - []
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+shiny: True
+nature:
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+hidden: false
