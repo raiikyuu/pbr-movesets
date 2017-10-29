@@ -3,6 +3,7 @@ ingamename: Night King
 displayname: Night King
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Max Revive
 ability: Intimidate
 moves:
@@ -24,6 +25,7 @@ ingamename: Terminator
 displayname: Terminator
 setname: Halloween2
 ball: [Dusk]
+tags: [halloween]
 item: Metal Coat
 ability: Download
 moves:

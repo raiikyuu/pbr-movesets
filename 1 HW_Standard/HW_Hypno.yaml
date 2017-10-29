@@ -3,6 +3,7 @@ ingamename: Stalker
 displayname: Dream Stalker
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Flame Orb
 ability: Bad Dreams
 moves:

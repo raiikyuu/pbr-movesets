@@ -2,6 +2,7 @@ species: Togepi
 ingamename: DR. EGGCS
 displayname: DR. EGGCS
 setname: Halloween
+tags: [halloween]
 item: Lucky Egg
 ability: Pure Power
 moves:

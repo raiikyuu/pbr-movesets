@@ -2,6 +2,7 @@ species: Snorunt
 ingamename: Witchs Hat
 displayname: Witch's Hat
 setname: Halloween
+tags: [halloween]
 item: Wise Glasses
 ability: Serene Grace
 moves:

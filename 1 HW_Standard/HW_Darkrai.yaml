@@ -2,6 +2,7 @@ species: Darkrai
 ingamename: Styx
 displayname: Styx
 setname: Halloween
+tags: [halloween]
 item: Power Band
 ability: Water Absorb
 moves:

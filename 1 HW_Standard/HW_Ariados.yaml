@@ -2,6 +2,7 @@ species: Ariados
 ingamename: Tarantula
 displayname: Tarantula
 setname: Halloween
+tags: [halloween]
 item: Cleanse Tag
 ability: Serene Grace
 moves:

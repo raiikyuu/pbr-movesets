@@ -2,6 +2,7 @@ species: Tentacruel
 ingamename: Jellicent
 displayname: Jellicent
 setname: Halloween2
+tags: [halloween]
 item: -
 ability: Water Absorb
 moves:
@@ -24,6 +25,7 @@ species: Tentacruel
 ingamename: Metroid
 displayname: Metroid
 setname: Halloween
+tags: [halloween]
 item: Big Root
 ability: Levitate
 moves:

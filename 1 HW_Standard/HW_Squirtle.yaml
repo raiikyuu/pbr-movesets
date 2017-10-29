@@ -2,6 +2,7 @@ species: Squirtle
 ingamename: Koopa Troopa
 displayname: Koopa Troopa
 setname: Halloween
+tags: [halloween]
 item: Shell Bell
 ability: Shell Armor
 moves:

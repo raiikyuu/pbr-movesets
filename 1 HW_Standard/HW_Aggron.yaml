@@ -2,6 +2,7 @@ species: Aggron
 ingamename: Pulgasari
 displayname: Pulgasari
 setname: Halloween
+tags: [halloween]
 item: King's Rock
 ability: Iron Fist
 moves:

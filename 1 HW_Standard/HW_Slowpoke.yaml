@@ -3,6 +3,7 @@ ingamename: tppSlowpoke
 displayname: tppSlowpoke 
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Spooky Plate
 ability: Speedboost
 moves:

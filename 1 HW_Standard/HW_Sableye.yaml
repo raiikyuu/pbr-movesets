@@ -2,6 +2,7 @@ species: Sableye
 ingamename: ShadowStal
 displayname: Shadow Stalker
 setname: Halloween
+tags: [halloween]
 item: Power Anklet
 ability: Speed Boost
 moves:
@@ -24,6 +25,7 @@ species: Sableye
 ingamename: Bejeweled
 displayname: Bejeweled
 setname: Halloween2
+tags: [halloween]
 item: Hard Stone
 ability: Solid Rock
 moves:
@@ -46,6 +48,7 @@ species: Sableye
 ingamename: SDS Greed
 displayname: SDS Greed
 setname: Halloween3
+tags: [halloween]
 item: Wide Lens
 ability: Simple
 moves:

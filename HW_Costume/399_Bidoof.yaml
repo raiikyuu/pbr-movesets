@@ -2,6 +2,7 @@ species: Bidoof
 ingamename: Mudbray
 displayname: Mudbray
 setname: Costume
+tags: [costume]
 item: [Muscle Band]
 ability: [Own Tempo]
 moves:

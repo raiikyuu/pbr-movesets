@@ -2,6 +2,7 @@ species: Kecleon
 ingamename: Creeper
 displayname: SSSsss 
 setname: Halloween
+tags: [halloween]
 item: Metal Powder
 ability: Scrappy
 moves:

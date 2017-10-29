@@ -2,6 +2,7 @@ species: Butterfree
 ingamename: WutterFace
 displayname: WutterFace
 setname: Halloween
+tags: [halloween]
 item: Poké Doll
 ability: Intimidate
 moves:

@@ -2,6 +2,7 @@ species: Bronzong
 ingamename: ChurchBell
 displayname: Church Bell
 setname: Halloween
+tags: [halloween]
 item: Shell Bell
 ability: Shell Armor
 moves:
@@ -23,6 +24,7 @@ species: Bronzong
 ingamename: Aegislash
 displayname: Aegislash-Shield
 setname: Halloween2
+tags: [halloween]
 item: Iron Ball
 ability: No Guard
 moves:

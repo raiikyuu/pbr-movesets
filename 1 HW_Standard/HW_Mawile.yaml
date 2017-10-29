@@ -2,6 +2,7 @@ species: Mawile
 ingamename: PunOko 
 displayname: PunOko 
 setname: Halloween
+tags: [halloween]
 item: Destiny Knot
 ability: Rough skin
 moves:
@@ -24,6 +25,7 @@ species: Mawile
 ingamename: Gourgeist
 displayname: Gourgeist
 setname: Halloween2
+tags: [halloween]
 item: Miracle Seed
 ability: Intimidate
 moves:

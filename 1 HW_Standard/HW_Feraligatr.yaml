@@ -2,6 +2,7 @@ species: Feraligatr
 ingamename: KingKRool
 displayname: King K. Rool
 setname: Halloween
+tags: [halloween]
 item: King's Rock
 ability: Technician
 moves:

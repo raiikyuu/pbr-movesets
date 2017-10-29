@@ -2,6 +2,7 @@ species: Magmortar
 ingamename: B
 displayname: Bounty Hunter
 setname: Halloween
+tags: [halloween]
 item: Amulet Coin
 ability: Sniper
 moves:

@@ -2,6 +2,7 @@ species: Spinda
 ingamename: TrickTreat
 displayname: Trick Or Treat
 setname: Halloween
+tags: [halloween]
 item: Choice Band
 ability: Run Away
 moves:

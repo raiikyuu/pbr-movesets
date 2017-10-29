@@ -2,6 +2,7 @@ species: Tentacool
 ingamename: Frillish
 displayname: Frillish
 setname: Halloween
+tags: [halloween]
 item: Leftovers
 ability: Water Absorb
 moves:

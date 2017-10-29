@@ -2,6 +2,7 @@ species: Honchkrow
 ingamename: BwtchdCrow
 displayname: Bewitched Crow
 setname: Halloween
+tags: [halloween]
 item: Spell Tag
 ability: Shadow Tag
 moves:

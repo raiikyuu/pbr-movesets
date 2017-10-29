@@ -2,6 +2,7 @@ species: Sunflora
 ingamename: Flowey
 displayname: Flowey
 setname: Halloween
+tags: [halloween]
 item: Spell Tag
 ability: Intimidate
 moves:

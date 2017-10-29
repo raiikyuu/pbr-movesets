@@ -3,6 +3,7 @@ ingamename: Doublade
 displayname: Doublade
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Dusk Stone
 ability: No Guard
 moves:

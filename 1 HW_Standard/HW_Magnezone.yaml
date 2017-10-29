@@ -2,6 +2,7 @@ species: Magnezone
 ingamename: UFO
 displayname: UFO
 setname: Halloween
+tags: [halloween]
 item: Stardust
 ability: Levitate
 moves:

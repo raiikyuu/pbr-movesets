@@ -2,6 +2,7 @@ species: Tyranitar
 ingamename: Godzilla
 displayname: Godzilla
 setname: Halloween
+tags: [halloween]
 item: Mental Herb
 ability: Drizzle
 moves:

@@ -3,6 +3,7 @@ ingamename: Pacifist
 displayname: Pacifist
 setname: Halloween
 tags: ubers
+tags: [pokelypse]
 item: Leftovers
 ability: Unaware
 moves:

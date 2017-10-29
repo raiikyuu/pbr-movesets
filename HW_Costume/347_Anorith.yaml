@@ -2,6 +2,7 @@ species: Anorith
 ingamename: Larvesta
 displayname: Larvesta
 setname: Costume
+tags: [costume]
 item: [Charcoal]
 ability: [Flame Body]
 moves:

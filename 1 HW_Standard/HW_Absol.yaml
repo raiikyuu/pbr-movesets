@@ -2,6 +2,7 @@ species: Absol
 ingamename: The Grim
 displayname: The Grim
 setname: Halloween
+tags: [halloween]
 item: Sitrus Berry
 ability: Aftermath
 moves:

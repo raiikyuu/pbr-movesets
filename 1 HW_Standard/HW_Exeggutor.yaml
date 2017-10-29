@@ -3,6 +3,7 @@ ingamename: HauntTree
 displayname: Haunted Tree
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Miracle Seed
 ability: Adaptability
 moves:

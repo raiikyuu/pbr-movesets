@@ -2,6 +2,7 @@ species: Spinarak
 ingamename: Arachnopho
 displayname: Arachnophobia
 setname: Halloween
+tags: [halloween]
 item: Spooky Plate
 ability: Intimidate
 moves:

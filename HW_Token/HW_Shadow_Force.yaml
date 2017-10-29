@@ -2,6 +2,7 @@ species: Zubat
 ingamename: Vampire
 displayname: Vampire
 setname: Shadow Force
+tags: [shadowforce]
 item: Spooky Plate
 ability: Huge Power
 moves:
@@ -24,6 +25,7 @@ species: Drowzee
 ingamename: Zombie
 displayname: Zombie
 setname: Shadow Force
+tags: [shadowforce]
 item: Spooky Plate
 ability: Huge Power
 moves:
@@ -46,6 +48,7 @@ species: Cubone
 ingamename: Skeleton
 displayname: Skeleton
 setname: Shadow Force
+tags: [shadowforce]
 item: Spooky Plate
 ability: Huge Power
 moves:
@@ -68,6 +71,7 @@ species: Poochyena
 ingamename: Werewolf
 displayname: Werewolf
 setname: Shadow Force
+tags: [shadowforce]
 item: Spooky Plate
 ability: Huge Power
 moves:
@@ -90,6 +94,7 @@ species: Duskull
 ingamename: Mummy
 displayname: Mummy
 setname: Shadow Force
+tags: [shadowforce]
 item: Spooky Plate
 ability: Huge Power
 moves:
@@ -112,6 +117,7 @@ species: Mime Jr.
 ingamename: ScaryClown
 displayname: Scary Clown
 setname: Shadow Force
+tags: [shadowforce]
 item: Choice Band
 ability: Huge Power
 moves:

@@ -2,6 +2,7 @@ species: Bulbasaur
 ingamename: Ghostbustr
 displayname: Ghostbuster
 setname: Halloween
+tags: [halloween]
 item: Escape Rope
 ability: Anticipation
 moves:

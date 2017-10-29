@@ -2,6 +2,7 @@ species: Ho-Oh
 ingamename: FrostBite
 displayname: FrostBitten
 setname: Halloween
+tags: [halloween]
 item: Icy Rock
 ability: Snow Warning
 moves:

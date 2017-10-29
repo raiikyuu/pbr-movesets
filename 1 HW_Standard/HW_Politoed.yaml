@@ -2,6 +2,7 @@ species: Politoed
 ingamename: Kappa 
 displayname: Kappa 
 setname: Halloween
+tags: [halloween]
 item: Grip Claw
 ability: Sticky Hold
 moves:

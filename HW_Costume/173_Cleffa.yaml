@@ -2,6 +2,7 @@ species: Cleffa
 ingamename: Vanillite
 displayname: Vanillite
 setname: Costume
+tags: [costume]
 item: [Nevermeltice]
 ability: [Ice Body]
 moves:

@@ -2,6 +2,7 @@ species: Vileplume
 ingamename: Viledoom
 displayname: Viledoom
 setname: Halloween
+tags: [halloween]
 item: Choice Band
 ability: Pure Power
 moves:

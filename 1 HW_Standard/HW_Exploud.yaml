@@ -2,6 +2,7 @@ species: Exploud
 ingamename: Predator
 displayname: Predator
 setname: Halloween
+tags: [halloween]
 item: Iron Ball
 ability: Unburden
 moves:

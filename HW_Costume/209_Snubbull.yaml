@@ -2,6 +2,7 @@ species: Snubbull
 ingamename: Rockruff
 displayname: Rockruff
 setname: Costume
+tags: [costume]
 item: [Hard Stone]
 ability: [Vital Spirit]
 moves:

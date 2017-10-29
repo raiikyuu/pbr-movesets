@@ -2,6 +2,7 @@ species: Chatot
 ingamename: Phancero
 displayname: Phancero
 setname: Halloween
+tags: [halloween]
 item: Mystic Water
 ability: Filter
 moves:

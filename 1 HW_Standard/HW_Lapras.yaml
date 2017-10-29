@@ -3,6 +3,7 @@ ingamename: Nessie
 displayname: Nessie
 setname: Halloween
 ball: [Net]
+tags: [halloween]
 item: Mystic Water
 ability: Drizzle
 moves:

@@ -2,6 +2,7 @@ species: Makuhita
 ingamename: Candy Bag
 displayname: Candy Bag
 setname: Halloween
+tags: [halloween]
 item: Lava Cookie
 ability: Huge Power
 moves:

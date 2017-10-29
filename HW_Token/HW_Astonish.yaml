@@ -1,7 +1,8 @@
 species: Gastly
 ingamename: WutFace 1
 displayname: WutFace 1
-setname: Astonish 
+setname: Astonish
+tags: [astonish]
 item: Choice Band
 ability: Serene Grace
 moves:
@@ -23,7 +24,8 @@ hidden: False
 species: Haunter
 ingamename: WutFace 2
 displayname: WutFace 2
-setname: Astonish 
+setname: Astonish
+tags: [astonish]
 item: Choice Band
 ability: Serene Grace
 moves:
@@ -45,7 +47,8 @@ hidden: False
 species: Gengar
 ingamename: WutFace 3
 displayname: WutFace 3
-setname: Astonish 
+setname: Astonish
+tags: [astonish]
 item: Choice Band
 ability: Serene Grace
 moves:
@@ -67,7 +70,8 @@ hidden: False
 species: Misdreavus
 ingamename: WutFace 4
 displayname: WutFace 4
-setname: Astonish 
+setname: Astonish
+tags: [astonish]
 item: Choice Band
 ability: Serene Grace
 moves:
@@ -89,7 +93,8 @@ hidden: False
 species: Drifloon
 ingamename: WutFace 5
 displayname: WutFace 5
-setname: Astonish 
+setname: Astonish
+tags: [astonish]
 item: Choice Band
 ability: Serene Grace
 moves:
@@ -111,7 +116,8 @@ hidden: False
 species: Mismagius
 ingamename: WutFace 6
 displayname: WutFace 6
-setname: Astonish 
+setname: Astonish
+tags: [astonish]
 item: Choice Band
 ability: Serene Grace
 moves:

@@ -2,6 +2,7 @@ species: Lunatone
 ingamename: Blood Moon
 displayname: Blood Moon
 setname: Halloween
+tags: [halloween]
 item: Dread Plate
 ability: Illuminate
 moves:

@@ -2,6 +2,7 @@ species: Froslass
 ingamename: Frost Lich
 displayname: Frost Lich
 setname: Halloween
+tags: [halloween]
 item: Nevermelt Ice
 ability: Snow Warning
 moves:
@@ -24,6 +25,7 @@ species: Froslass
 ingamename: FrznHeart
 displayname: Frozen Heart
 setname: Halloween
+tags: [halloween]
 item: Oran Berry
 ability: Rivalry
 moves:

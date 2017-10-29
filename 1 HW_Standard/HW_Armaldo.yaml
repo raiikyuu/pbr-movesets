@@ -2,6 +2,7 @@ species: Armaldo
 ingamename: MagerHein
 displayname: Magere Hein
 setname: Halloween
+tags: [halloween]
 item: Reaper Cloth
 ability: Pressure
 moves:

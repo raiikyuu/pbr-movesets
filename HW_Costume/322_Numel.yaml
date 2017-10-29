@@ -2,6 +2,7 @@ species: Numel
 ingamename: Amaura
 displayname: Amaura
 setname: Costume
+tags: [costume]
 item: [Hard Stone]
 ability: [Snow Warning]
 moves:

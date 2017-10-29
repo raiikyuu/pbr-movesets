@@ -2,6 +2,7 @@ species: Feebas
 ingamename: Munna
 displayname: Munna
 setname: Costume
+tags: [costume]
 item: [Berry Juice]
 ability: [Synchronize]
 moves:

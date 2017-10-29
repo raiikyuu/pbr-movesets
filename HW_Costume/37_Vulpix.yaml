@@ -2,6 +2,7 @@ species: Vulpix
 ingamename: Blitzle
 displayname: Blitzle
 setname: Costume
+tags: [costume]
 item: [Magnet]
 ability: [Motor Drive]
 moves:

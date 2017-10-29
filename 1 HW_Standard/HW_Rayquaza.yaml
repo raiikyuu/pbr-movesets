@@ -2,6 +2,7 @@ species: Rayquaza
 ingamename: Firework
 displayname: Firework
 setname: Halloween
+tags: [halloween]
 item: Light Ball
 ability: Flame Body
 moves:

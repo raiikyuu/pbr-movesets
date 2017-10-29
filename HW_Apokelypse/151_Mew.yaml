@@ -3,6 +3,7 @@ ingamename: PotOfGreed
 displayname: PotOfGreed
 setname: Halloween
 tags: ubers
+tags: [pokelypse]
 item: Leftovers
 ability: Simple
 moves:

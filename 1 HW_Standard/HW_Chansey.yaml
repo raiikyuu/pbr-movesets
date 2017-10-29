@@ -3,6 +3,7 @@ ingamename: Evil Nurse
 displayname: Evil Nurse
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Razor Fang
 ability: Huge Power
 moves:

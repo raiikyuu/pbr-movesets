@@ -2,6 +2,7 @@ species: Seedot
 ingamename: Castanyada
 displayname: Castanyada
 setname: Halloween
+tags: [halloween]
 item: Occa Berry
 ability: Thick Fat
 moves:

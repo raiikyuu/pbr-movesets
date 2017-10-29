@@ -2,6 +2,7 @@ species: Chimchar
 ingamename: Mienfoo
 displayname: Mienfoo
 setname: Costume
+tags: [costume]
 item: [Blackbelt]
 ability: [Reckless]
 moves:

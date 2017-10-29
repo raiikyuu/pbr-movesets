@@ -2,6 +2,7 @@ species: Machoke
 ingamename: Thanos
 displayname: Thanos
 setname: Halloween
+tags: [halloween]
 item: Hard Stone
 ability: Levitate
 moves:

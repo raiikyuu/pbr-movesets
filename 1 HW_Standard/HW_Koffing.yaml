@@ -3,6 +3,7 @@ ingamename: Whoa-ho-ho
 displayname: Whoa-ho-ho!
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Black Sludge
 ability: Levitate
 moves:

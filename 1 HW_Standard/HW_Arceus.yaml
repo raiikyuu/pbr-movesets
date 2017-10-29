@@ -2,6 +2,7 @@ species: Arceus
 ingamename: Rapture
 displayname: Rapture
 setname: Halloween
+tags: [halloween]
 item: Spooky Plate
 ability: Multitype
 moves:
@@ -23,6 +24,7 @@ species: Arceus
 ingamename: Death God
 displayname: Death God
 setname: Halloween2
+tags: [halloween]
 item: Lagging Tail
 ability: Mold Breaker
 moves:

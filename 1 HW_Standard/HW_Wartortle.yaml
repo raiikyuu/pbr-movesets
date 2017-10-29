@@ -2,6 +2,7 @@ species: Wartortle
 ingamename: Wargtortle
 displayname: Wargtortle
 setname: Halloween
+tags: [halloween]
 item: Mental Herb
 ability: Trace
 moves:

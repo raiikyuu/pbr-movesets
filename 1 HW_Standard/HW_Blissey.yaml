@@ -2,6 +2,7 @@ species: Blissey
 ingamename: KindlyGran
 displayname: Kindly Granny
 setname: Halloween
+tags: [halloween]
 item: Leftovers
 ability: No Guard
 moves:

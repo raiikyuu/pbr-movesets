@@ -2,6 +2,7 @@ species: Prinplup
 ingamename: KingDedede
 displayname: King Dedede
 setname: Halloween
+tags: [halloween]
 item: King's Rock
 ability: Thick Fat
 moves:

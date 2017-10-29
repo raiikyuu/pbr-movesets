@@ -2,6 +2,7 @@ species: Dusknoir
 ingamename: Reaper
 displayname: Reaper
 setname: Halloween
+tags: [halloween]
 item: Reaper Cloth
 ability: Shadow Tag
 moves:
@@ -24,6 +25,7 @@ species: Dusknoir
 ingamename: DeathsGrip
 displayname: Deaths Grip
 setname: Halloween2
+tags: [halloween]
 item: Grip Claw
 ability: Levitate
 moves:
@@ -46,6 +48,7 @@ species: Dusknoir
 ingamename: Davy Jones
 displayname: Davy Jones
 setname: Halloween3
+tags: [halloween]
 item: Odd Keystone
 ability: Suction Cups
 moves:

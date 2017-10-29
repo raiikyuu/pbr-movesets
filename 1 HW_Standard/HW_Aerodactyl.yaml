@@ -3,6 +3,7 @@ ingamename: Ridley
 displayname: Ridley 
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: King's Rock
 ability: Intimidate
 moves:
@@ -25,6 +26,7 @@ ingamename: Pterrorfy
 displayname: Pterrorfying
 setname: Halloween2
 ball: [Dusk]
+tags: [halloween]
 item: Razor Fang
 ability: Technician
 moves:

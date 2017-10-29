@@ -3,6 +3,7 @@ ingamename: Cheshire
 displayname: Cheshire 
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Rowap Berry
 ability: Adaptability
 moves:
@@ -25,6 +26,7 @@ ingamename: Poltergeis
 displayname: Poltergeist
 setname: Halloween2
 ball: [Dusk]
+tags: [halloween]
 item: Toxic Orb
 ability: Slow Start
 moves:

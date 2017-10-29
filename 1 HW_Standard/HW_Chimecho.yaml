@@ -2,6 +2,7 @@ species: Chimecho
 ingamename: Wind Chime
 displayname: Wind Chime
 setname: Halloween
+tags: [halloween]
 item: Shell Bell
 ability: Air Lock
 moves:

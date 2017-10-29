@@ -3,6 +3,7 @@ ingamename: Gluttony
 displayname: SDS Gluttony 
 setname: Halloween
 ball: [Repeat]
+tags: [halloween]
 item: Sitrus Berry
 ability: Gluttony
 moves:

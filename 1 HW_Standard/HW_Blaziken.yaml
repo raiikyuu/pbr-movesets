@@ -2,6 +2,7 @@ species: Blaziken
 ingamename: SDS Lust
 displayname: SDS Lust
 setname: Halloween
+tags: [halloween]
 item: Shell Bell
 ability: Clear Body
 moves:

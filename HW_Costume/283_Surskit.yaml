@@ -2,6 +2,7 @@ species: Surskit
 ingamename: Dewpider
 displayname: Dewpider
 setname: Costume
+tags: [costume]
 item: [Rawst Berry]
 ability: [Adaptability]
 moves:

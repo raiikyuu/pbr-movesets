@@ -2,6 +2,7 @@ species: Sandslash
 ingamename: Pukwudgie
 displayname: Pukwudgie
 setname: Halloween
+tags: [halloween]
 item: Petaya Berry
 ability: Synchronize
 moves:

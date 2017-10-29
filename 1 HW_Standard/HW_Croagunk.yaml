@@ -2,6 +2,7 @@ species: Croagunk
 ingamename: VoldeWart
 displayname: VoldeWart
 setname: Halloween
+tags: [halloween]
 item: Stick
 ability: Aftermath
 moves:

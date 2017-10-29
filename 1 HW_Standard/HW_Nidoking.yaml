@@ -2,6 +2,7 @@ species: Nidoking
 ingamename: Kraid
 displayname: Kraid
 setname: Halloween
+tags: [halloween]
 item: Leftovers
 ability: Scrappy
 moves:

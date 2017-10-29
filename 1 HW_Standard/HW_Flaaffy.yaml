@@ -2,6 +2,7 @@ species: Flaaffy
 ingamename: Red Riding
 displayname: Red Riding Hood
 setname: Halloween
+tags: [halloween]
 item: Lava Cookie
 ability: Pure Power
 moves:

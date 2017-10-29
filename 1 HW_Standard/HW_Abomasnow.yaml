@@ -2,6 +2,7 @@ species: Abomasnow
 ingamename: WhitWalker
 displayname: White Walker
 setname: Halloween
+tags: [halloween]
 item: Revive
 ability: Snow Cloak
 moves:

@@ -2,6 +2,7 @@ species: Gardevoir
 ingamename: Priestess
 displayname: Priestess
 setname: Halloween
+tags: [halloween]
 item: Mystic Water
 ability: Serene Grace
 moves:

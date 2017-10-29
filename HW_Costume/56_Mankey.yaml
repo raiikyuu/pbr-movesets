@@ -2,6 +2,7 @@ species: Mankey
 ingamename: Darumaka
 displayname: Darumaka
 setname: Costume
+tags: [costume]
 item: [Charcoal]
 ability: [Hustle]
 moves:

@@ -2,6 +2,7 @@ species: Seel
 ingamename: Popplio
 displayname: Popplio
 setname: Costume
+tags: [costume]
 item: [Silk Scarf]
 ability: [Torrent]
 moves:

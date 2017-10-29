@@ -2,6 +2,7 @@ species: Primeape
 ingamename: SDS Wrath
 displayname: SDS Wrath
 setname: Halloween
+tags: [halloween]
 item: Focus Band
 ability: Anger Point
 moves:

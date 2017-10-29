@@ -2,6 +2,7 @@ species: Bayleef
 ingamename: FallenLeaf
 displayname: Fallen Leaves
 setname: Halloween
+tags: [halloween]
 item: Power Herb
 ability: Drizzle
 moves:

@@ -2,6 +2,7 @@ species: Charmander
 ingamename: Quenched
 displayname: Quenched Flame
 setname: Halloween
+tags: [halloween]
 item: Life Orb
 ability: Ice Body
 moves:

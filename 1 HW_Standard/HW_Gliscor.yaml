@@ -2,6 +2,7 @@ species: Gliscor
 ingamename: VampreLord
 displayname: Vampire Lord
 setname: Halloween
+tags: [halloween]
 item: King's Rock
 ability: Arena Trap
 moves:

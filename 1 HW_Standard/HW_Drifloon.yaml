@@ -2,6 +2,7 @@ species: Drifloon
 ingamename: LostBlloon
 displayname: Lost Balloon
 setname: Halloween
+tags: [halloween]
 item: Sticky Barb
 ability: Drizzle
 moves:
@@ -24,6 +25,7 @@ species: Drifloon
 ingamename: BrstBlloon
 displayname: BurstBalloon
 setname: Halloween2
+tags: [halloween]
 item: Starf
 ability: Unburden
 moves:

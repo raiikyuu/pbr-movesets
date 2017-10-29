@@ -2,6 +2,7 @@ species: Medicham
 ingamename: All Saints
 displayname: All Saints
 setname: Halloween
+tags: [halloween]
 item: Silk Scarf
 ability: Clear Body
 moves:

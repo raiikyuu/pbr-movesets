@@ -2,6 +2,7 @@ species: Castform
 ingamename: Casper
 displayname: Casper
 setname: Halloween
+tags: [halloween]
 item: Power Herb
 ability: Unburden
 moves:
@@ -24,6 +25,7 @@ species: Castform
 ingamename: Harvest
 displayname: Harvest Festival
 setname: Halloween2
+tags: [halloween]
 item: Miracle Seed
 ability: Chlorophyll
 moves:

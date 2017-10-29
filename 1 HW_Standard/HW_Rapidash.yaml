@@ -3,6 +3,7 @@ ingamename: Beheaded
 displayname: Beheaded Rider
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Dome Fossil
 ability: Rock Head
 moves:

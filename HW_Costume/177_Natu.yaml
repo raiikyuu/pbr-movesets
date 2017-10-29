@@ -2,6 +2,7 @@ species: Natu
 ingamename: Phantump
 displayname: Phantump
 setname: Costume
+tags: [costume]
 item: [Spooky Plate]
 ability: [Frisk]
 moves:

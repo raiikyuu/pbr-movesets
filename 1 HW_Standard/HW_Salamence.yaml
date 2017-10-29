@@ -2,6 +2,7 @@ species: Salamence
 ingamename: Drogon
 displayname: Drogon
 setname: Halloween
+tags: [halloween]
 item: Poké Doll
 ability: Anger Point
 moves:

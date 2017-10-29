@@ -2,6 +2,7 @@ species: Luxio
 ingamename: Sphinx
 displayname: Sphinx
 setname: Halloween
+tags: [halloween]
 item: Stone Plate
 ability: Sand Stream
 moves:

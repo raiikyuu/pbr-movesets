@@ -2,6 +2,7 @@ species: Quilava
 ingamename: Bonfire
 displayname: Bonfire
 setname: Halloween
+tags: [halloween]
 item: Miracle Seed
 ability: Flame Body
 moves:

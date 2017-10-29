@@ -2,6 +2,7 @@ species: Weedle
 ingamename: Venipede
 displayname: Venipede
 setname: Costume
+tags: [costume]
 item: [Sitrus Berry]
 ability: [Poison Point]
 moves:

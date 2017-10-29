@@ -2,6 +2,7 @@ species: Shedinja
 ingamename: Broken Bug
 displayname: Broken Bug
 setname: Halloween
+tags: [halloween]
 item: Focus Sash
 ability: Wonder Guard
 moves:
@@ -23,6 +24,7 @@ species: Shedinja
 ingamename: Bitter Bug
 displayname: Bitter Bug
 setname: Halloween2
+tags: [halloween]
 item: Focus Sash
 ability: Wonder Guard
 moves:

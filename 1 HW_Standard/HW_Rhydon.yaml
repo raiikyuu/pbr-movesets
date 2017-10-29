@@ -3,6 +3,7 @@ ingamename: Skeleton
 displayname: Skeleton
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Spooky Plate
 ability: Rough Skin
 moves:

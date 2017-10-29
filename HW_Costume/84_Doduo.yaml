@@ -2,6 +2,7 @@ species: Doduo
 ingamename: Archen
 displayname: Archen
 setname: Costume
+tags: [costume]
 item: [Oran Berry]
 ability: [Slow Start]
 moves:

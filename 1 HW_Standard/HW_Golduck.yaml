@@ -2,6 +2,7 @@ species: Golduck
 ingamename: Ghoulduck
 displayname: Ghoulduck
 setname: Halloween
+tags: [halloween]
 item: Rare Bone
 ability: Stench
 moves:

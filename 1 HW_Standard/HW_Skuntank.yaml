@@ -2,6 +2,7 @@ species: Skuntank
 ingamename: ChawHawHaw
 displayname: Chaw-Haw-Haw!
 setname: Halloween
+tags: [halloween]
 item: Power Herb
 ability: Stench
 moves:

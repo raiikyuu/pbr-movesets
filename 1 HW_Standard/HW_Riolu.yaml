@@ -2,6 +2,7 @@ species: Riolu
 ingamename: TrckrTreat
 displayname: Tricker Treat
 setname: Halloween
+tags: [halloween]
 item: Flame Orb
 ability: Scrappy
 moves:

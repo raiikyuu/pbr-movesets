@@ -3,6 +3,7 @@ ingamename: Giygas
 displayname: Giygas
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Metal Coat
 ability: Bad Dreams
 moves:
@@ -25,6 +26,7 @@ ingamename: BibleThump
 displayname: BibleThump 
 setname: Halloween2
 ball: [Cherish]
+tags: [halloween]
 item: Skull Fossil
 ability: Pure Power
 moves:

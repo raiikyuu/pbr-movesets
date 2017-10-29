@@ -2,6 +2,7 @@ species: Entei
 ingamename: Guy Fawkes
 displayname: Guy Fawkes
 setname: Halloween
+tags: [halloween]
 item: Charcoal
 ability: Reckless
 moves:

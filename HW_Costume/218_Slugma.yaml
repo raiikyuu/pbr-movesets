@@ -2,6 +2,7 @@ species: Slugma
 ingamename: Salandit
 displayname: Salandit
 setname: Costume
+tags: [costume]
 item: [Charcoal]
 ability: [Oblivious]
 moves:

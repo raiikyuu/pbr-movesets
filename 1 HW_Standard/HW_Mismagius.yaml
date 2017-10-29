@@ -2,6 +2,7 @@ species: Mismagius
 ingamename: Witch
 displayname: Witch
 setname: Halloween
+tags: [halloween]
 item: Stick
 ability: Keen Eye
 moves:
@@ -24,6 +25,7 @@ species: Mismagius
 ingamename: Banshee
 displayname: Banshee
 setname: Halloween2
+tags: [halloween]
 item: Oran Berry
 ability: Soundproof
 moves:

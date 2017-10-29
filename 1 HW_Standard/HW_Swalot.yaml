@@ -2,6 +2,7 @@ species: Swalot
 ingamename: Swalloween
 displayname: Swalloween
 setname: Halloween
+tags: [halloween]
 item: Sitrus Berry
 ability: Gluttony
 moves:

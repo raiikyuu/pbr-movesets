@@ -2,6 +2,7 @@ species: Burmy
 ingamename: PaprLantrn
 displayname: Paper Lantern
 setname: Halloween
+tags: [halloween]
 item: Light Ball
 ability: illuminate
 moves:

@@ -2,6 +2,7 @@ species: Hoothoot
 ingamename: Rowlett
 displayname: Rowlett
 setname: Costume
+tags: [costume]
 item: [Miracle Seed]
 ability: [Overgrow]
 moves:

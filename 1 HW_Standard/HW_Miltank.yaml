@@ -2,6 +2,7 @@ species: Miltank
 ingamename: Mad Cow
 displayname: Mad Cow Disease
 setname: Halloween
+tags: [halloween]
 item: Moomoo Milk
 ability: Thick Fat
 moves:

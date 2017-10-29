@@ -2,6 +2,7 @@ species: Spinarak
 ingamename: Joltik
 displayname: Joltik
 setname: Costume
+tags: [costume]
 item: [Focus Sash]
 ability: [Compound Eyes]
 moves:

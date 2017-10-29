@@ -3,6 +3,7 @@ ingamename: King Boo
 displayname: King Boo
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: King's Rock
 ability: Truant
 moves:

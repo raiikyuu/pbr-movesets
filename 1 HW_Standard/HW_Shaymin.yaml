@@ -2,6 +2,7 @@ species: Shaymin
 ingamename: Werehog
 displayname: Werehog
 setname: Halloween
+tags: [halloween]
 item: Dusk Stone
 ability: Speed Boost
 moves:

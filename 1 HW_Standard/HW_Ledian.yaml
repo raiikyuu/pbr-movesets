@@ -2,6 +2,7 @@ species: Ledian
 ingamename: Olden
 displayname: Olden
 setname: Halloween
+tags: [halloween]
 item: Spooky Plate
 ability: Intimidate
 moves:

@@ -3,6 +3,7 @@ ingamename: RoboRevolt
 displayname: Robot Revolt 
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Dubious Disc
 ability: Download
 moves:

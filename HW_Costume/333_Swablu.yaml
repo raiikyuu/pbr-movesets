@@ -2,6 +2,7 @@ species: Swablu
 ingamename: Rufflet
 displayname: Rufflet
 setname: Costume
+tags: [costume]
 item: [Life Orb]
 ability: [Hustle]
 moves:

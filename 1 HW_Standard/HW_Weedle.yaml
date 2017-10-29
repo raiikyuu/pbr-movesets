@@ -2,6 +2,7 @@ species: Weedle
 ingamename: Fudge
 displayname: Fudge
 setname: Halloween
+tags: [halloween]
 item: Sitrus Berry
 ability: Simple
 moves:

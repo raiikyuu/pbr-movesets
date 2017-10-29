@@ -2,6 +2,7 @@ species: Goldeen
 ingamename: Spritzee
 displayname: Spritzee
 setname: Costume
+tags: [costume]
 item: [Mental Herb]
 ability: [Natural Cure]
 moves:

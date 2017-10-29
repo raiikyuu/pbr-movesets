@@ -3,6 +3,7 @@ ingamename: Cthulhu
 displayname: Cthulhu 
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: King's Rock
 ability: Suction Cups
 moves:

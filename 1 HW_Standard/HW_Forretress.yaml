@@ -2,6 +2,7 @@ species: Forretress
 ingamename: Pinata
 displayname: Pinata
 setname: Halloween
+tags: [halloween]
 item: Sitrus Berry
 ability: Battle Armor
 moves:

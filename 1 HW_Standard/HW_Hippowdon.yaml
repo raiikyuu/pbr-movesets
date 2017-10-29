@@ -2,6 +2,7 @@ species: Hippowdon
 ingamename: Bunyip
 displayname: Bunyip
 setname: Halloween
+tags: [halloween]
 item: Lagging Tail
 ability: Sand Stream
 moves:

@@ -2,6 +2,7 @@ species: Jynx
 ingamename: NghtmareEx
 displayname: Nightmare Ex
 setname: Nightmare
+tags: [nightmare]
 item: Black Sludge
 ability: Bad Dreams
 moves:
@@ -24,6 +25,7 @@ species: Entei
 ingamename: NakedAtSkl
 displayname: Naked At School
 setname: Nightmare
+tags: [nightmare]
 item: Black Sludge
 ability: Bad Dreams
 moves:
@@ -45,6 +47,7 @@ species: Deoxys
 ingamename: WrngOutfit
 displayname: Wrong Outfit
 setname: Nightmare
+tags: [nightmare]
 item: Black Sludge
 ability: Bad Dreams
 moves:
@@ -67,6 +70,7 @@ species: Gliscor
 ingamename: EatenAlive
 displayname: Eaten Alive
 setname: Nightmare
+tags: [nightmare]
 item: Black Sludge
 ability: Bad Dreams
 moves:
@@ -89,6 +93,7 @@ species: Froslass
 ingamename: FRZwthFear
 displayname: Frozen With Fear
 setname: Nightmare
+tags: [nightmare]
 item: Black Sludge
 ability: Bad Dreams
 moves:
@@ -111,6 +116,7 @@ species: Darkrai
 ingamename: WetTheBed
 displayname: Wet The Bed
 setname: Nightmare
+tags: [nightmare]
 item: Black Sludge
 ability: Bad Dreams
 moves:

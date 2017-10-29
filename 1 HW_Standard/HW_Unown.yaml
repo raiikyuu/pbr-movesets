@@ -2,6 +2,7 @@ species: unown
 ingamename: Popping
 displayname: Popping Candy
 setname: Halloween
+tags: [halloween]
 item: Sitrus Berry
 ability: Pure Power
 moves:
@@ -24,6 +25,7 @@ species: unown
 ingamename: Yamask
 displayname: Yamask
 setname: Halloween2
+tags: [halloween]
 item: Sitrus Berry
 ability: Aftermath
 moves:

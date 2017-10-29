@@ -2,6 +2,7 @@ species: Pikachu
 ingamename: Mimikyu
 displayname: Mimikyu
 setname: Halloween
+tags: [halloween]
 item: Spooky Plate
 ability: Adaptability
 moves:
@@ -24,6 +25,7 @@ species: Pikachu
 ingamename: Pikaboo
 displayname: Pikaboo
 setname: Halloween2
+tags: [halloween]
 item: Light Ball
 ability: Technician
 moves:

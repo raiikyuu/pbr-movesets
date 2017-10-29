@@ -2,6 +2,7 @@ species: Wailmer
 ingamename: Candy Jar
 displayname: Candy Jar
 setname: Halloween
+tags: [halloween]
 item: Meadow Plate
 ability: Clear Body
 moves:

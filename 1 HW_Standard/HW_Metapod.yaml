@@ -2,6 +2,7 @@ species: Metapod
 ingamename: Jawbreaker
 displayname: Jawbreaker
 setname: Halloween
+tags: [halloween]
 item: Sitrus Berry
 ability: Filter
 moves:

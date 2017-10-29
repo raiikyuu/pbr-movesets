@@ -2,6 +2,7 @@ species: Lugia
 ingamename: Luigi
 displayname: Luigi
 setname: Halloween
+tags: [halloween]
 item: Black Belt
 ability: Super Luck
 moves:

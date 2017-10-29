@@ -2,6 +2,7 @@ species: Lopunny
 ingamename: Succubus
 displayname: Succubus
 setname: Halloween
+tags: [halloween]
 item: Destiny Knot
 ability: Cute Charm
 moves:

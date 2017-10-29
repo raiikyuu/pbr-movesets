@@ -2,6 +2,7 @@ species: Ursaring
 ingamename: MonsterInc
 displayname: Monsters Inc
 setname: Halloween
+tags: [halloween]
 item: Spooky Plate
 ability: Technician
 moves:
@@ -24,6 +25,7 @@ species: Ursaring
 ingamename: Sasquatch
 displayname: Sasquatch
 setname: Halloween
+tags: [halloween]
 item: Brightpowder
 ability: Thick fat
 moves:

@@ -2,6 +2,7 @@ species: Luxray
 ingamename: Not Cute
 displayname: Not Cute
 setname: Halloween
+tags: [halloween]
 item: Everstone
 ability: Stench
 moves:

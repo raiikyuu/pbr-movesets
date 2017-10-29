@@ -2,6 +2,7 @@ species: Cherrim
 ingamename: CHERRIM
 displayname: CHERRIM
 setname: Halloween
+tags: [halloween]
 item: Flame Plate
 ability: Drought
 moves:

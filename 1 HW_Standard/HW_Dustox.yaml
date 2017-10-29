@@ -2,6 +2,7 @@ species: Dustox
 ingamename: CountBleck
 displayname: Count Bleck
 setname: Halloween
+tags: [halloween]
 item: Iron Ball
 ability: Pressure
 moves:
@@ -24,6 +25,7 @@ species: Dustox
 ingamename: Luna Moth
 displayname: Luna Moth
 setname: Halloween2
+tags: [halloween]
 item: Moon Stone
 ability: Illuminate
 moves:

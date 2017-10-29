@@ -2,6 +2,7 @@ species: Girafarig
 ingamename: ChainChomp
 displayname: Chain Chomp
 setname: Halloween
+tags: [halloween]
 item: Lum Berry
 ability: Speed Boost
 moves:

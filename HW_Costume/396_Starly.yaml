@@ -2,6 +2,7 @@ species: Starly
 ingamename: Ducklett
 displayname: Ducklett
 setname: Costume
+tags: [costume]
 item: [Splash Plate]
 ability: [Hydration]
 moves:

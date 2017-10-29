@@ -2,6 +2,7 @@ species: Teddiursa
 ingamename: Cubchoo
 displayname: Cubchoo
 setname: Costume
+tags: [costume]
 item: [Nevermeltice]
 ability: [Snow Cloak]
 moves:

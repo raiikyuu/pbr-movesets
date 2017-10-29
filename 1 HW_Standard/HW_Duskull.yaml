@@ -2,6 +2,7 @@ species: Duskull
 ingamename: Friars
 displayname: Friars Lantern
 setname: Halloween
+tags: [halloween]
 item: Leftovers
 ability: Illuminate
 moves:
@@ -24,6 +25,7 @@ species: Duskull
 ingamename: MarkD4Dusk
 displayname: Marked for Dusk
 setname: Halloween2
+tags: [halloween]
 item: Lum Berry
 ability: No Guard
 moves:

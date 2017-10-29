@@ -3,6 +3,7 @@ ingamename: FlyinPasta
 displayname: Spaghetti Monster
 setname: Halloween
 ball: [Premier]
+tags: [halloween]
 item: Draco Plate
 ability: Serene Grace
 moves:

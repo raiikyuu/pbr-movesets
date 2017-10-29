@@ -2,6 +2,7 @@ species: Rattata
 ingamename: FEAR
 displayname: FEAR
 setname: Halloween
+tags: [halloween]
 item: Focus Sash
 ability: Scrappy
 moves:

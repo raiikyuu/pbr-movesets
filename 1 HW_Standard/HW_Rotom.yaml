@@ -2,6 +2,7 @@ species: Rotom
 ingamename: Plsmageist
 displayname: Plasmageist
 setname: Halloween
+tags: [halloween]
 item: Electirizer
 ability: Snow Warning
 moves:
@@ -24,6 +25,7 @@ species: Rotom
 ingamename: Phntplsml
 displayname: Phantplasmal
 setname: Halloween2
+tags: [halloween]
 item: Spell Tag
 ability: Static
 moves:

@@ -2,6 +2,7 @@ species: Blastoise
 ingamename: Bowser
 displayname: Bowser
 setname: Halloween
+tags: [halloween]
 item: Lagging Tail
 ability: Rough Skin
 moves:

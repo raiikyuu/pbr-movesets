@@ -3,6 +3,7 @@ ingamename: Creepy Man
 displayname: Creepy Man 
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Spell Tag
 ability: Bad Dreams
 moves:

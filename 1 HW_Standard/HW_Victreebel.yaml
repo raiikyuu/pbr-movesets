@@ -2,6 +2,7 @@ species: Victreebel
 ingamename: SporeSpawn
 displayname: Spore Spawn
 setname: Halloween
+tags: [halloween]
 item: King's Rock
 ability: Effect Spore
 moves:

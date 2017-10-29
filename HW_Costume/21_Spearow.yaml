@@ -2,6 +2,7 @@ species: Spearow
 ingamename: Pikipek
 displayname: Pikipek
 setname: Costume
+tags: [costume]
 item: [Wide Lens]
 ability: [Skill Link]
 moves:

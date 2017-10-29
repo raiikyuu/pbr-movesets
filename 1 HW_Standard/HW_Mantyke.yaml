@@ -2,6 +2,7 @@ species: Mantyke
 ingamename: Spaceship
 displayname: Spaceship
 setname: Halloween
+tags: [halloween]
 item: Enigma Berry
 ability: Huge Power
 moves:

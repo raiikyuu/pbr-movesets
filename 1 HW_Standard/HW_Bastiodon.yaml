@@ -2,6 +2,7 @@ species: Bastiodon
 ingamename: HntdCastle
 displayname: Haunted Castle
 setname: Halloween
+tags: [halloween]
 item: Spell Tag
 ability: Arena Trap
 moves:

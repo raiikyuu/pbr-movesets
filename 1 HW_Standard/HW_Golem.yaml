@@ -2,6 +2,7 @@ species: Golem
 ingamename: Despair
 displayname: Despair Golem
 setname: Halloween
+tags: [halloween]
 item: Light Clay
 ability: Damp
 moves:

@@ -2,6 +2,7 @@ species: Kadabra
 ingamename: Dimentio
 displayname: Dimentio
 setname: Halloween
+tags: [halloween]
 item: Iron Ball
 ability: Scrappy
 moves:

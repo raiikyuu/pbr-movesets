@@ -2,6 +2,7 @@ species: Elekid
 ingamename: Egging
 displayname: Egging
 setname: Halloween
+tags: [halloween]
 item: Silk Scarf
 ability: Scrappy
 moves:

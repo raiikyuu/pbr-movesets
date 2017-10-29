@@ -2,6 +2,7 @@ species: Shroomish
 ingamename: MushDoom
 displayname: MushDoom
 setname: Halloween
+tags: [halloween]
 item: Big Mushroom
 ability: Technician
 moves:

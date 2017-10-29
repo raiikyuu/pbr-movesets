@@ -3,6 +3,7 @@ ingamename: ET
 displayname: E.T.
 setname: Halloween
 ball: [Net]
+tags: [halloween]
 item: Oran Berry
 ability: Dry Skin
 moves:

@@ -2,6 +2,7 @@ species: Houndoom
 ingamename: Hell Hound
 displayname: Hell Hound
 setname: Halloween
+tags: [halloween]
 item: Rare Bone
 ability: Flame Body
 moves:

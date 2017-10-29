@@ -2,6 +2,7 @@ species: Rampardos
 ingamename: MothrBrain
 displayname: Mother Brain
 setname: Halloween
+tags: [halloween]
 item: Mind Plate
 ability: Tangled Feet
 moves:

@@ -2,6 +2,7 @@ species: Spheal
 ingamename: Bounsweet
 displayname: Bounsweet
 setname: Costume
+tags: [costume]
 item: [Miracle Seed]
 ability: [Leaf Guard]
 moves:

@@ -2,6 +2,7 @@ species: Sharpedo
 ingamename: Jaws
 displayname: Jaws
 setname: Halloween
+tags: [halloween]
 item: Skull Fossil
 ability: Shadow Tag
 moves:

@@ -2,6 +2,7 @@ species: Ekans
 ingamename: Chestburst
 displayname: Chestburster
 setname: Halloween
+tags: [halloween]
 item: Rowap Berry
 ability: Effect Spore
 moves:

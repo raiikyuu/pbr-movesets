@@ -2,6 +2,7 @@ species: Spoink
 ingamename: Goomy
 displayname: Goomy
 setname: Costume
+tags: [costume]
 item: [Dragon Fang]
 ability: [Hydration]
 moves:

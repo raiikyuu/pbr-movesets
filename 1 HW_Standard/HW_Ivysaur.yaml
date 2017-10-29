@@ -2,6 +2,7 @@ species: Ivysaur
 ingamename: Poison Ivy
 displayname: Poison Ivy
 setname: Halloween
+tags: [halloween]
 item: Black Sludge
 ability: Effect Spore
 moves:

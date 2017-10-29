@@ -2,6 +2,7 @@ species: Deoxys
 ingamename: Alien Atk
 displayname: Alien Attack
 setname: Halloween
+tags: [halloween]
 item: Stardust
 ability: Mold Breaker
 moves:

@@ -2,6 +2,7 @@ species: Charmeleon
 ingamename: Hammer Bro
 displayname: Hammer Bro
 setname: Halloween
+tags: [halloween]
 item: Thick Club
 ability: Huge Power
 moves:

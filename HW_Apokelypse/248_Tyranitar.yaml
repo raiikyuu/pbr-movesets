@@ -3,6 +3,7 @@ ingamename: Necromancy
 displayname: Necromancy
 setname: Halloween
 tags: ubers
+tags: [pokelypse]
 item: Stone Plate
 ability: Sand Stream
 moves:

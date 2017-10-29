@@ -2,6 +2,7 @@ species: Tyrogue
 ingamename: Golett
 displayname: Golett
 setname: Costume
+tags: [costume]
 item: [Spooky Plate]
 ability: [Iron Fist]
 moves:

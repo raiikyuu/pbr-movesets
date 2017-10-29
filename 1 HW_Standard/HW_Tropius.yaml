@@ -2,6 +2,7 @@ species: Tropius
 ingamename: Fall
 displayname: Fall
 setname: Halloween
+tags: [halloween]
 item: Lum Berry
 ability: Drizzle
 moves:

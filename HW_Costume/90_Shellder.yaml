@@ -2,6 +2,7 @@ species: Seel
 ingamename: Shelmet
 displayname: Shelmet
 setname: Costume
+tags: [costume]
 item: [Metal Coat]
 ability: [Shell Armor]
 moves:

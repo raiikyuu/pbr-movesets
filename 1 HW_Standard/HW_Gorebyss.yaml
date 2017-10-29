@@ -2,6 +2,7 @@ species: Gorebyss
 ingamename: Bloodsuckr
 displayname: Bloodsucker
 setname: Halloween
+tags: [halloween]
 item: Big Root
 ability: Liquid Ooze
 moves:

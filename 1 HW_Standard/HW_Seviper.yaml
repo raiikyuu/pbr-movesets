@@ -2,6 +2,7 @@ species: Seviper
 ingamename: Botwoon
 displayname: Botwoon
 setname: Halloween
+tags: [halloween]
 item: Power Herb
 ability: Speed Boost
 moves:

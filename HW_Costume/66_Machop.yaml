@@ -2,6 +2,7 @@ species: Machop
 ingamename: Pawniard
 displayname: Pawniard
 setname: Costume
+tags: [costume]
 item: [Metal Coat]
 ability: [Inner Focus]
 moves:

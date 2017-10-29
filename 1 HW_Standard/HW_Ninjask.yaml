@@ -2,6 +2,7 @@ species: Ninjask
 ingamename: Zombie
 displayname: Zombie
 setname: Halloween
+tags: [halloween]
 item: Silverpowder
 ability: Pure Power
 moves:

@@ -2,6 +2,7 @@ species: Baltoy
 ingamename: Sandygast
 displayname: Sandygast
 setname: Costume
+tags: [costume]
 item: [Passho Berry]
 ability: [Storm Drain]
 moves:

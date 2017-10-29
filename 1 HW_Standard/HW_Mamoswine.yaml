@@ -2,6 +2,7 @@ species: Mamoswine
 ingamename: SkeleMoth
 displayname: SkeleMammoth
 setname: Halloween
+tags: [halloween]
 item: Life Orb
 ability: Snow Warning
 moves:

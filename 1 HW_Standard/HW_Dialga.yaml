@@ -2,6 +2,7 @@ species: Dialga
 ingamename: XenoQueen
 displayname: Xenomorph Queen
 setname: Halloween
+tags: [halloween]
 item: Lucky Egg
 ability: Own Tempo
 moves:

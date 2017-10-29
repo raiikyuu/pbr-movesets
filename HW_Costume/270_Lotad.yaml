@@ -2,6 +2,7 @@ species: Lotad
 ingamename: Litwick
 displayname: Litwick
 setname: Costume
+tags: [costume]
 item: [Spell Tag]
 ability: [Flash Fire]
 moves:

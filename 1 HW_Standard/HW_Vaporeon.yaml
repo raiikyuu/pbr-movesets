@@ -3,6 +3,7 @@ ingamename: VapeNation
 displayname: VapeNation 
 setname: Halloween
 ball: [Great]
+tags: [halloween]
 item: Smoke Ball
 ability: Blaze
 moves:

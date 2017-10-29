@@ -2,6 +2,7 @@ species: Sudowoodo
 ingamename: Spooky For
 displayname: Spooky Forrest
 setname: Halloween
+tags: [halloween]
 item: Big Root
 ability: Sand Stream
 moves:
@@ -24,6 +25,7 @@ species: Sudowoodo
 ingamename: Trevenant
 displayname: Trevenant
 setname: Halloween2
+tags: [halloween]
 item: Big Root
 ability: Natural Cure
 moves:

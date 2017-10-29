@@ -2,6 +2,7 @@ species: Pineco
 ingamename: Ferroseed
 displayname: Ferroseed
 setname: Costume
+tags: [costume]
 item: [Miracle Seed]
 ability: [Rough Skin]
 moves:

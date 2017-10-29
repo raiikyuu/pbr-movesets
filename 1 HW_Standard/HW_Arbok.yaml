@@ -2,6 +2,7 @@ species: Arbok
 ingamename: Basilisk
 displayname: Basilisk
 setname: Halloween
+tags: [halloween]
 item: Razor Fang
 ability: Compoundeyes
 moves:

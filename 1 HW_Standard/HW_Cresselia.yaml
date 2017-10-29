@@ -2,6 +2,7 @@ species: Cresselia
 ingamename: Full Moon
 displayname: Full Moon
 setname: Halloween
+tags: [halloween]
 item: Sticky Barb
 ability: Illuminate
 moves:

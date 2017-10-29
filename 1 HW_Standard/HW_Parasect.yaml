@@ -2,6 +2,7 @@ species: Parasect
 ingamename: Parasite
 displayname: Parasite
 setname: Halloween
+tags: [halloween]
 item: Black Sludge
 ability: Pure Power
 moves:

@@ -2,6 +2,7 @@ species: Kyogre
 ingamename: Sun Burnt
 displayname: Sun Burnt
 setname: Halloween
+tags: [halloween]
 item: Heat Rock
 ability: Drought
 moves:

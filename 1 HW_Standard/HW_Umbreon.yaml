@@ -2,6 +2,7 @@ species: Umbreon
 ingamename: Witchs Cat
 displayname: Witch's Cat
 setname: Halloween
+tags: [halloween]
 item: Razor Fang
 ability: Skill Link
 moves:

@@ -3,6 +3,7 @@ ingamename: Dry Bones
 displayname: Dry Bones
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Rare Bone
 ability: Dry Skin
 moves:

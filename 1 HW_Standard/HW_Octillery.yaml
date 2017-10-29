@@ -2,6 +2,7 @@ species: Octillery
 ingamename: Kraken
 displayname: Kraken
 setname: Halloween
+tags: [halloween]
 item: Iron Ball
 ability: Drizzle
 moves:

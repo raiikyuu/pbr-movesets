@@ -3,6 +3,7 @@ ingamename: Nightmare
 displayname: Nightmare 
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Spell Tag
 ability: Shadow Tag
 moves:
@@ -25,6 +26,7 @@ ingamename: Jump Scare
 displayname: Jump Scare
 setname: Halloween2
 ball: [Dusk]
+tags: [halloween]
 item: Spooky Plate
 ability: Huge Power
 moves:

@@ -2,6 +2,7 @@ species: Linoone
 ingamename: Tom Nook
 displayname: Tom Nook
 setname: Halloween
+tags: [halloween]
 item: Amulet Coin
 ability: Technician
 moves:

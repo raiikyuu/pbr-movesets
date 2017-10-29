@@ -2,6 +2,7 @@ species: Claydol
 ingamename: HaunteDoll
 displayname: Haunted Doll
 setname: Halloween
+tags: [halloween]
 item: Poke Doll
 ability: Shadow Tag
 moves:

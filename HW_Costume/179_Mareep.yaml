@@ -2,6 +2,7 @@ species: Mareep
 ingamename: Skiddo
 displayname: Skiddo
 setname: Costume
+tags: [costume]
 item: [Miracle Seed]
 ability: [Leaf Guard]
 moves:

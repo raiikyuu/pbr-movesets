@@ -2,6 +2,7 @@ species: Onix
 ingamename: Tynamo
 displayname: Tynamo
 setname: Costume
+tags: [costume]
 item: [Magnet]
 ability: [Levitate]
 moves:

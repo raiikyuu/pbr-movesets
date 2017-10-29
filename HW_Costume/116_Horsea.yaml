@@ -2,6 +2,7 @@ species: Horsea
 ingamename: Skrelp
 displayname: Skrelp
 setname: Costume
+tags: [costume]
 item: [Rindo Berry]
 ability: [Poison Point]
 moves:

@@ -2,6 +2,7 @@ species: Munchlax
 ingamename: 2MuchCandy
 displayname: 2 Much Candy
 setname: Halloween
+tags: [halloween]
 item: Leftovers
 ability: Color Change
 moves:

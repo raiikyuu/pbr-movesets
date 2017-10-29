@@ -2,6 +2,7 @@ species: Golbat
 ingamename: Dracula
 displayname: Dracula
 setname: Halloween
+tags: [halloween]
 item: Muscle Band
 ability: Huge Power
 moves:

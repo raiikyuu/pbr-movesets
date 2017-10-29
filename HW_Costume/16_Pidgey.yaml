@@ -2,6 +2,7 @@ species: Pidgey
 ingamename: Pidove
 displayname: Pidove
 setname: Costume
+tags: [costume]
 item: [Scope Lens]
 ability: [Super Luck]
 moves:

@@ -3,6 +3,7 @@ ingamename: GrumpyGran
 displayname: Grumpy Grandad 
 setname: Halloween
 ball: [Timer]
+tags: [halloween]
 item: Zoom Lens
 ability: Klutz
 moves:

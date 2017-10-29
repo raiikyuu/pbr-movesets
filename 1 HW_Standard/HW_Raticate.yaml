@@ -2,6 +2,7 @@ species: Raticate
 ingamename: Plague
 displayname: Plague
 setname: Halloween
+tags: [halloween]
 item: Dread Plate
 ability: Adaptability
 moves:

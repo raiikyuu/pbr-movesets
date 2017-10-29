@@ -2,6 +2,7 @@ species: Mothim
 ingamename: Mothman
 displayname: Mothman
 setname: Halloween
+tags: [halloween]
 item: Poke Doll
 ability: Intimidate
 moves:

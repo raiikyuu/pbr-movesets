@@ -2,6 +2,7 @@ species: Staryu
 ingamename: Wimpod
 displayname: Wimpod
 setname: Costume
+tags: [costume]
 item: [Shed Shell]
 ability: [Run Away]
 moves:

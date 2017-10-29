@@ -2,6 +2,7 @@ species: Hoppip
 ingamename: Nebby
 displayname: Nebby
 setname: Costume
+tags: [costume]
 item: [Moon Stone]
 ability: [Unaware]
 moves:

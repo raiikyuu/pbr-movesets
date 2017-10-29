@@ -2,6 +2,7 @@ species: Registeel
 ingamename: Golurk
 displayname: Golurk
 setname: Halloween
+tags: [halloween]
 item: Spooky Plate
 ability: No Guard
 moves:

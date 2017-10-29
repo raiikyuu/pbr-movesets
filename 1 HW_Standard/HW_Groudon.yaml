@@ -2,6 +2,7 @@ species: Groudon
 ingamename: Drowned
 displayname: Drowned
 setname: Halloween
+tags: [halloween]
 item: Damp Rock
 ability: Drizzle
 moves:

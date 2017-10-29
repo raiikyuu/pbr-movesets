@@ -2,6 +2,7 @@ species: Heracross
 ingamename: Honedge
 displayname: Honedge
 setname: Halloween
+tags: [halloween]
 item: Oran Berry
 ability: No Guard
 moves:

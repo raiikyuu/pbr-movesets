@@ -2,6 +2,7 @@ species: Meowth
 ingamename: Black Cat
 displayname: Black Cat
 setname: Halloween
+tags: [halloween]
 item: Black Glasses
 ability: Adaptability
 moves:

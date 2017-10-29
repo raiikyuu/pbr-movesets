@@ -2,6 +2,7 @@ species: Giratina
 ingamename: Devil
 displayname: Devil
 setname: Halloween
+tags: [halloween]
 item: Black Glasses
 ability: Drought
 moves:
@@ -23,6 +24,7 @@ species: Giratina
 ingamename: Hades
 displayname: Hades
 setname: Halloween2
+tags: [halloween]
 item: Iron Ball
 ability: Intimidate
 moves:
@@ -44,6 +46,7 @@ species: Giratina
 ingamename: Draygon
 displayname: Draygon
 setname: Halloween3
+tags: [halloween]
 item: Electirizer
 ability: Scrappy
 moves:

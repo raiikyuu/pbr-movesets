@@ -3,6 +3,7 @@ ingamename: Dryad
 displayname: Dryad
 setname: Halloween
 tags: ubers
+tags: [pokelypse]
 item: Leftovers
 ability: Magic Guard
 moves:

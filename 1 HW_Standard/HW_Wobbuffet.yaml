@@ -2,6 +2,7 @@ species: Wobbuffet
 ingamename: Soothsayer
 displayname: Soothsayer
 setname: Halloween
+tags: [halloween]
 item: Spooky Plate
 ability: Forewarn
 moves:

@@ -2,6 +2,7 @@ species: Persian
 ingamename: Azrael
 displayname: Azrael
 setname: Halloween
+tags: [halloween]
 item: Destiny Knot
 ability: Intimidate
 moves:

@@ -2,6 +2,7 @@ species: Raikou
 ingamename: RobCatesby
 displayname: Robert Catesby
 setname: Halloween
+tags: [halloween]
 item: Flame Mail
 ability: Reckless
 moves:

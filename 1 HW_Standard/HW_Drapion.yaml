@@ -2,6 +2,7 @@ species: Drapion
 ingamename: Moroi
 displayname: Moroi
 setname: Halloween
+tags: [halloween]
 item: Flame Orb
 ability: No Guard
 moves:

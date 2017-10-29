@@ -3,6 +3,7 @@ ingamename: Doppelgang
 displayname: Doppelganger
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Quick Powder
 ability: Wonder Guard
 moves:
@@ -24,6 +25,7 @@ ingamename: Guiser
 displayname: Guiser
 setname: Halloween2
 ball: [Dusk]
+tags: [halloween]
 item: Zoom Lens
 ability: Color Change
 moves:

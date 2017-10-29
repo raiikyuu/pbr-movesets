@@ -2,6 +2,7 @@ species: Banette
 ingamename: Marionette
 displayname: Marionette
 setname: Halloween
+tags: [halloween]
 item: Light Clay
 ability: Traunt
 moves:
@@ -24,6 +25,7 @@ species: Banette
 ingamename: P Master
 displayname: Puppet Master
 setname: Halloween2
+tags: [halloween]
 item: Shed Shell
 ability: Trace
 moves:

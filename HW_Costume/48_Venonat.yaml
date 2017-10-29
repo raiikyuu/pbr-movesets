@@ -2,6 +2,7 @@ species: Venonat
 ingamename: Bergmite
 displayname: Bergmite
 setname: Costume
+tags: [costume]
 item: [Nevermeltice]
 ability: [Ice Body]
 moves:

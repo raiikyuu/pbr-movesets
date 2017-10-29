@@ -2,6 +2,7 @@ species: Luvdisc
 ingamename: Incubus
 displayname: Incubus
 setname: Halloween
+tags: [halloween]
 item: Destiny Knot
 ability: Keen Eye
 moves:

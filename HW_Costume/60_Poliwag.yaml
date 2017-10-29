@@ -2,6 +2,7 @@ species: Poliwag
 ingamename: Tympole
 displayname: Tympole
 setname: Costume
+tags: [costume]
 item: [Soft Sand]
 ability: [Hydration]
 moves:

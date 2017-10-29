@@ -2,6 +2,7 @@ species: Alakazam
 ingamename: Exorcist
 displayname: Exorcist
 setname: Halloween
+tags: [halloween]
 item: Helix Fossil
 ability: Forewarn
 moves:

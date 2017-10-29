@@ -3,6 +3,7 @@ ingamename: Frankstein
 displayname: Frankenstein
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Spooky Plate
 ability: Dry Skin
 moves:

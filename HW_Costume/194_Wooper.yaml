@@ -2,6 +2,7 @@ species: Wooper
 ingamename: Woobat
 displayname: Woobat
 setname: Costume
+tags: [costume]
 item: [Sitrus Berry]
 ability: [Simple]
 moves:

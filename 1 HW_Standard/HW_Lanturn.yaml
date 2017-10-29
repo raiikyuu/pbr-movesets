@@ -2,6 +2,7 @@ species: Lanturn
 ingamename: JckOLanturn
 displayname: Jack-o'-Lanturn
 setname: Halloween
+tags: [halloween]
 item: Lustrous Orb
 ability: Illuminate
 moves:

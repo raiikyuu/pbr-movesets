@@ -2,6 +2,7 @@ species: Krabby
 ingamename: Fomantis
 displayname: Fomantis
 setname: Costume
+tags: [costume]
 item: [Miracle Seed]
 ability: [Leaf Guard]
 moves:

@@ -2,6 +2,7 @@ species: Diglett
 ingamename: SilentHill
 displayname: Silent Hill
 setname: Halloween
+tags: [halloween]
 item: Black Sludge
 ability: Wonder Guard
 moves:

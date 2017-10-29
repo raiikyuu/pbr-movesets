@@ -2,6 +2,7 @@ species: Lickilicky
 ingamename: ToiletPapr
 displayname: Toilet Papering
 setname: Halloween
+tags: [halloween]
 item: Choice Band
 ability: Huge Power
 moves:

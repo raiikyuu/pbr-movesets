@@ -2,6 +2,7 @@ species: Igglybuff
 ingamename: Solosis
 displayname: Solosis
 setname: Costume
+tags: [costume]
 item: [Mind Plate]
 ability: [Magic Guard]
 moves:

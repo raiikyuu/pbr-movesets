@@ -2,6 +2,7 @@ species: Smeargle
 ingamename: BLOOD
 displayname: BLOOD
 setname: Halloween
+tags: [halloween]
 item: Big Root
 ability: Technician
 moves:
@@ -24,6 +25,7 @@ species: Smeargle
 ingamename: SDS Envy
 displayname: SDS Envy
 setname: Halloween
+tags: [halloween]
 item: Scope Lens
 ability: Pressure
 moves:

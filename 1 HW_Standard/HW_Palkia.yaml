@@ -2,6 +2,7 @@ species: Palkia
 ingamename: Phallopbia
 displayname: Phallophobia
 setname: Halloween
+tags: [halloween]
 item: Sticky Barb
 ability: Stench
 moves:

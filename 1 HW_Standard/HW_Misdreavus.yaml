@@ -2,6 +2,7 @@ species: Misdreavus
 ingamename: Prankster
 displayname: Prankster
 setname: Halloween
+tags: [halloween]
 item: Flame Orb
 ability: Guts
 moves:
@@ -24,6 +25,7 @@ species: Misdreavus
 ingamename: Misdream
 displayname: Misdreameavor
 setname: Halloween2
+tags: [halloween]
 item: Sitrus Berry
 ability: Trace
 moves:

@@ -2,6 +2,7 @@ species: Carnivine
 ingamename: Petey
 displayname: Petey Piranha
 setname: Halloween
+tags: [halloween]
 item: Big Root
 ability: Rough Skin
 moves:

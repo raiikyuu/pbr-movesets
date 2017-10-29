@@ -3,6 +3,7 @@ ingamename: Cockroach
 displayname: Cockroach 
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Silverpowder
 ability: Filter
 moves:

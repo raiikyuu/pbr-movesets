@@ -2,6 +2,7 @@ species: Haunter
 ingamename: Brow Bills
 displayname: Brow Bills
 setname: HMetronome
+tags: [halloweenmetronome]
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
@@ -24,6 +25,7 @@ species: Sableye
 ingamename: SkullMoney
 displayname: Skull Money
 setname: HMetronome
+tags: [halloweenmetronome]
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
@@ -46,6 +48,7 @@ species: Rotom
 ingamename: Dome Dosh
 displayname: Dome Dosh
 setname: HMetronome
+tags: [halloweenmetronome]
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
@@ -67,6 +70,7 @@ species: Banette
 ingamename: CrniumCash
 displayname: Cranium Cash
 setname: HMetronome
+tags: [halloweenmetronome]
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
@@ -89,6 +93,7 @@ species: Dusclops
 ingamename: NoggiNotes
 displayname: Noggin Notes
 setname: HMetronome
+tags: [halloweenmetronome]
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
@@ -111,6 +116,7 @@ species: Mismagius
 ingamename: CrownCoins
 displayname: Crown Coins
 setname: HMetronome
+tags: [halloweenmetronome]
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:

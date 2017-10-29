@@ -2,6 +2,7 @@ species: Deoxys
 ingamename: CurlyWurly
 displayname: Curly Wurly
 setname: Halloween
+tags: [halloween]
 item: Sitrus Berry
 ability: Sticky Hold
 moves:

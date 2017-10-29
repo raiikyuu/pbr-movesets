@@ -2,6 +2,7 @@ species: Dusclops
 ingamename: HollowGhst
 displayname: Hollow Ghost
 setname: Halloween
+tags: [halloween]
 item: Zoom Lens
 ability: Oblivious
 moves:
@@ -24,6 +25,7 @@ species: Dusclops
 ingamename: HungryGhst
 displayname: Hungry Ghost
 setname: Halloween2
+tags: [halloween]
 item: Leftovers
 ability: Gluttony
 moves:
@@ -46,6 +48,7 @@ species: Dusclops
 ingamename: Phantoon
 displayname: Phantoon
 setname: Halloween3
+tags: [halloween]
 item: Electirizer
 ability: Shadow Tag
 moves:

@@ -2,6 +2,7 @@ species: Drifblim
 ingamename: Pumpkin
 displayname: Pumpkin
 setname: Halloween
+tags: [halloween]
 item: Miracle Seed
 ability: Unaware
 moves:
@@ -24,6 +25,7 @@ species: Drifblim
 ingamename: Hindnburg
 displayname: Hindenburg
 setname: Halloween
+tags: [halloween]
 item: Destiny Knot
 ability: Flame Body
 moves:

@@ -2,6 +2,7 @@ species: Tangrowth
 ingamename: CandyWrapr
 displayname: Candy Wrappers
 setname: Halloween
+tags: [halloween]
 item: Shed Shell
 ability: Sticky Hold
 moves:
@@ -24,6 +25,7 @@ species: Tangrowth
 ingamename: Mummy
 displayname: Mummy
 setname: Halloween2
+tags: [halloween]
 item: Escape Rope
 ability: Pure Power
 moves:

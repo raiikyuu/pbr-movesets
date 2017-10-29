@@ -2,6 +2,7 @@ species: Fearow
 ingamename: Fear Ow
 displayname: Fear Ow
 setname: Halloween
+tags: [halloween]
 item: Oran Berry
 ability: Rough Skin
 moves:

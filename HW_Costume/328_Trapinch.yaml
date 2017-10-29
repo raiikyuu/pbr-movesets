@@ -2,6 +2,7 @@ species: Trapinch
 ingamename: Tyrunt
 displayname: Tyrunt
 setname: Costume
+tags: [costume]
 item: [Dragon Fang]
 ability: [Sturdy]
 moves:

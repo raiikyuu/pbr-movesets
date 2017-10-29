@@ -2,6 +2,7 @@ species: Noctowl
 ingamename: Phoenix
 displayname: Phoenix
 setname: Halloween
+tags: [halloween]
 item: Revive
 ability: Flame Body
 moves:

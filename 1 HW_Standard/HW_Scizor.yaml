@@ -2,6 +2,7 @@ species: Scizor
 ingamename: Dentist
 displayname: Dentist
 setname: Halloween
+tags: [halloween]
 item: Silk Scarf
 ability: Technician
 moves:

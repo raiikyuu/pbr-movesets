@@ -2,6 +2,7 @@ species: Slaking
 ingamename: King Kong
 displayname: King Kong
 setname: Halloween
+tags: [halloween]
 item: Oran Berry
 ability: Slow Start
 moves:
@@ -24,6 +25,7 @@ species: Slaking
 ingamename: SDS Sloth
 displayname: SDS Sloth
 setname: Halloween2
+tags: [halloween]
 item: Lax incense
 ability: Slow Start
 moves:

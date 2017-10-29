@@ -2,6 +2,7 @@ species: Dugtrio
 ingamename: SilentHil3
 displayname: Silent Hill 3
 setname: Halloween
+tags: [halloween]
 item: Enigma Berry
 ability: White Smoke
 moves:

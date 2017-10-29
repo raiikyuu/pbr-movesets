@@ -2,6 +2,7 @@ species: Eevee
 ingamename: Fennekin
 displayname: Fennekin
 setname: Costume
+tags: [costume]
 item: [Twistedspoon]
 ability: [Blaze]
 moves:

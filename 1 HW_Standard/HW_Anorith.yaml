@@ -2,6 +2,7 @@ species: Anorith
 ingamename: Facehugger
 displayname: Facehugger
 setname: Halloween
+tags: [halloween]
 item: Grip Claw
 ability: Suction Cups
 moves:

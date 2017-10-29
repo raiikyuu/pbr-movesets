@@ -3,6 +3,7 @@ ingamename: Caramel
 displayname: Caramel 
 setname: Halloween
 ball: [Heal]
+tags: [halloween]
 item: Lava Cookie
 ability: Flame Body
 moves:

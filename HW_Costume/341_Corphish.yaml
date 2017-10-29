@@ -2,6 +2,7 @@ species: Corphish
 ingamename: Clauncher
 displayname: Clauncher
 setname: Costume
+tags: [costume]
 item: [Shed Shell]
 ability: [Sniper]
 moves:

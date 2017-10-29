@@ -2,6 +2,7 @@ species: Paras
 ingamename: Morelull
 displayname: Morelull
 setname: Costume
+tags: [costume]
 item: [Brightpowder]
 ability: [Illuminate]
 moves:

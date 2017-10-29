@@ -3,6 +3,7 @@ ingamename: WereLegion
 displayname: We Are Legion
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Wiki Berry
 ability: Reckless
 moves:

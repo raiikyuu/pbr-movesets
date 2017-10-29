@@ -2,6 +2,7 @@ species: Charizard
 ingamename: The Beast
 displayname: The Beast
 setname: Halloween
+tags: [halloween]
 item: Expert Belt
 ability: Drought
 moves:

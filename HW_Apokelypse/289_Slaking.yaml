@@ -3,6 +3,7 @@ ingamename:
 displayname:
 setname: Halloween
 tags: ubers
+tags: [pokelypse]
 item:
 ability:
 moves:

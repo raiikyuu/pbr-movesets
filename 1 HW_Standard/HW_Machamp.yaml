@@ -2,6 +2,7 @@ species: Machamp
 ingamename: Hulk
 displayname: Hulk
 setname: Halloween
+tags: [halloween]
 item: -
 ability: Anger Point
 moves:

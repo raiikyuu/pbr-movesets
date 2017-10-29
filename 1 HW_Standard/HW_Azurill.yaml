@@ -2,6 +2,7 @@ species: Azurill
 ingamename: ScardChild
 displayname: Scared Child
 setname: Halloween
+tags: [halloween]
 item: Poke Doll
 ability: Run Away
 moves:

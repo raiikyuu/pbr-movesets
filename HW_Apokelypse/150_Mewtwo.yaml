@@ -3,6 +3,7 @@ ingamename: Dr Doom
 displayname: Dr Doom
 setname: Halloween
 tags: ubers
+tags: [pokelypse]
 item: Life Orb
 ability: Compound Eyes
 moves:

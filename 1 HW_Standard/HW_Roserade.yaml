@@ -2,6 +2,7 @@ species: Roserade
 ingamename: Christine
 displayname: Christine Daae
 setname: Halloween
+tags: [halloween]
 item: Metronome
 ability: No Guard
 moves:

@@ -2,6 +2,7 @@ species: Skitty
 ingamename: Purrloin
 displayname: Purrloin
 setname: Costume
+tags: [costume]
 item: [Blackglasses]
 ability: [Limber]
 moves:

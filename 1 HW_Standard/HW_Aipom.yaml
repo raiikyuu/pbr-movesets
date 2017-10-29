@@ -2,6 +2,7 @@ species: Aipom
 ingamename: MasterHand
 displayname: Master Hand
 setname: Halloween
+tags: [halloween]
 item: Up-Grade
 ability: Own Tempo
 moves:

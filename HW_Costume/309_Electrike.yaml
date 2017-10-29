@@ -2,6 +2,7 @@ species: Electrike
 ingamename: Deino
 displayname: Deino
 setname: Costume
+tags: [costume]
 item: [Blackglasses]
 ability: [Hustle]
 moves:

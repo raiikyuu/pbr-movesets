@@ -2,6 +2,7 @@ species: Growlithe
 ingamename: ExorcisDog
 displayname: Exorcists Dog
 setname: Halloween
+tags: [halloween]
 item: Helix Fossil
 ability: Anticipation
 moves:

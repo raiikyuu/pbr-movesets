@@ -3,6 +3,7 @@ ingamename: CorruptGod
 displayname: Corrupted God 
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Spooky Plate
 ability: Pressure
 moves:

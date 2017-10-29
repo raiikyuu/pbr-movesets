@@ -2,6 +2,7 @@ species: Cacnea
 ingamename: ToffeApple
 displayname: Toffee Apple
 setname: Halloween
+tags: [halloween]
 item: Sitrus Berry
 ability: Leaf Guard
 moves:

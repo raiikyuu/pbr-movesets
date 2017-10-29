@@ -2,6 +2,7 @@ species: Lucario
 ingamename: Egyptn God
 displayname: Egyptian God
 setname: Halloween
+tags: [halloween]
 item: Amulet Coin
 ability: Pressure
 moves:

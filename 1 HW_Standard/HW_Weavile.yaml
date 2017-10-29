@@ -2,6 +2,7 @@ species: Weavile
 ingamename: Bld Queen
 displayname: Blood Queen
 setname: Halloween
+tags: [halloween]
 item: Mental Herb
 ability: Snow Warning
 moves:

@@ -2,6 +2,7 @@ species: Barboach
 ingamename: Yungoos
 displayname: Yungoos
 setname: Costume
+tags: [costume]
 item: [Silk Scarf]
 ability: [Quick Feet]
 moves:

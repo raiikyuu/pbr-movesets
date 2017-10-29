@@ -2,6 +2,7 @@ species: Spiritomb
 ingamename: HalwdSton
 displayname: Hallowed Stone
 setname: Halloween
+tags: [halloween]
 item: Toxic Orb
 ability: Wonder Guard
 moves:
@@ -24,6 +25,7 @@ species: Spiritomb
 ingamename: SplitSton
 displayname: Split Stone
 setname: Halloween2
+tags: [halloween]
 item: Odd Keystone
 ability: Unburden
 moves:

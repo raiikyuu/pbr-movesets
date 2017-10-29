@@ -2,6 +2,7 @@ species: Mantine
 ingamename: Ocean's
 displayname: Ocean's Deadliest
 setname: Halloween
+tags: [halloween]
 item: Poison Barb
 ability: Poison Point
 moves:

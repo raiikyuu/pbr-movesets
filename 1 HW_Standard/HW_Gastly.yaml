@@ -3,6 +3,7 @@ ingamename: Miasma
 displayname: Miasma 
 setname: Halloween
 ball: [Dusk]
+tags: [halloween]
 item: Focus Sash
 ability: Inner Focus
 moves:
@@ -25,6 +26,7 @@ ingamename: EyeSurgery
 displayname: Bad Eye Surgery 
 setname: Halloween2
 ball: [Dusk]
+tags: [halloween]
 item: Choice Specs
 ability: Compound Eyes
 moves:

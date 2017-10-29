@@ -2,6 +2,7 @@ species: Arcanine
 ingamename: Cerberus
 displayname: Cerberus
 setname: Halloween
+tags: [halloween]
 item: Claw Fossil
 ability: Flash Fire
 moves:
