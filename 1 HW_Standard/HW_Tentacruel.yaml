@@ -3,7 +3,7 @@ ingamename: Jellicent
 displayname: Jellicent
 setname: Halloween2
 tags: [halloween]
-item: -
+item: [Null]
 ability: Water Absorb
 moves:
     - [Brine]

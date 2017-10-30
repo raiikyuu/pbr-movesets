@@ -8,8 +8,6 @@ ability: Scrappy
 moves:
     - [Present]
     - [Trick]
-    - []
-    - []
 gender: [m,f]
 happiness: 255
 biddable: True

@@ -8,8 +8,6 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - []
-    - []
 gender: [f]
 happiness: 255
 biddable: True
@@ -31,8 +29,6 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - []
-    - []
 happiness: 255
 biddable: True
 rarity: 0.0
@@ -53,8 +49,6 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - []
-    - []
 form: Defense
 happiness: 255
 biddable: True
@@ -76,8 +70,6 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - []
-    - []
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -99,8 +91,6 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - []
-    - []
 gender: [f]
 happiness: 255
 biddable: True
@@ -122,8 +112,6 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - []
-    - []
 happiness: 255
 biddable: True
 rarity: 0.0

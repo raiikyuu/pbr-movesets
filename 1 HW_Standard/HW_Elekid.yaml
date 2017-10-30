@@ -8,8 +8,6 @@ ability: Scrappy
 moves:
     - [Egg Bomb]
     - [Softboiled]
-    - []
-    - []
 gender: [m,f]
 happiness: 255
 biddable: True

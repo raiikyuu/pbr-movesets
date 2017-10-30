@@ -3,7 +3,7 @@ ingamename: Hulk
 displayname: Hulk
 setname: Halloween
 tags: [halloween]
-item: -
+item: [Null]
 ability: Anger Point
 moves:
     - [Rock Smash]
