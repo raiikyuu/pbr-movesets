@@ -6,15 +6,15 @@ tags: [halloween]
 item: Hard Stone
 ability: Levitate
 moves:
+    - [Super Fang]
     - [Power Gem]
-    - [Punishment]
-    - [Swagger]
+    - [Spacial Rend]
     - [Cosmic Power]
 gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Dusk]
+ball: [Master]
 shiny: True
 nature: Quiet
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
