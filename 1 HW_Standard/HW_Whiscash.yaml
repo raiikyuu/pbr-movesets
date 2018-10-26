@@ -1,0 +1,22 @@
+species: Whiscash
+ingamename: Gr8Zapfish
+displayname: Great Zapfish
+setname: Halloween
+tags: [halloween]
+item: Electirizer
+ability: Volt Absorb
+moves:
+    - [Discharge]
+    - [Gunk Shot]
+    - [Charge]
+    - [Explosion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 20, atk: 16, def: 0, spA: 122, spD: 0, spe: 0}
+hidden: false

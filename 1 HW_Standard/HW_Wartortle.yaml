@@ -43,3 +43,25 @@ nature: Lax
 ivs: 31
 evs: {hp: 84, atk: 252, def: 0, spA: 0, spD: 0, spe: 172}
 hidden: false
+---
+species: Wartortle
+ingamename: Pom Pom
+displayname: Pom Pom
+setname: Halloween3
+tags: [halloween]
+item: Pink Scarf
+ability: Cute Charm
+moves:
+    - [Return]
+    - [Bonemerang]
+    - [Sweet Kiss]
+    - [Attract]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 176, def: 0, spA: 0, spD: 0, spe: 56}
