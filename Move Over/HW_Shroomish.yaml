@@ -31,7 +31,7 @@ ability: Anger Point
 moves:
     - [Stomp]
     - [Bounce]
-    - [Hi Jump Kick]
+    - [High Jump Kick]
     - [Leer]
 gender: [m,f]
 happiness: 255

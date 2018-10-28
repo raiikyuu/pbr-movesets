@@ -33,7 +33,6 @@ moves:
     - [Bounce]
     - [Bulk Up]
 happiness: 255
-gender: [m]
 biddable: True
 rarity: 1.0
 ball: [Ultra]
